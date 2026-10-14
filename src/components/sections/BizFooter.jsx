@@ -183,7 +183,7 @@ export default function BizFooter() {
             style={{ color: withAlpha(onSec, 0.85) }}
           >
             <Layers size={13} style={{ color: onSec, opacity: 0.85 }} />
-            Made with <span className="font-bold">{PLATFORM_NAME}</span> — build your own free website
+            Made with <span className="font-bold">{PLATFORM_NAME}</span> — build your own website
           </a>
         </div>
       </div>
