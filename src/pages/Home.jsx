@@ -432,6 +432,7 @@ export default function Home() {
                   "Business email setup help",
                   "Advanced SEO controls",
                   "Remove Cresite branding",
+                   "Delivered within 48 hours",
                 ],
               },
               {
@@ -440,7 +441,6 @@ export default function Home() {
                 price: "Custom", per: "quote", cta: "Tell us what you need", to: "/#contact", hot: false,
                 blurb: "Something bigger, stranger or fully bespoke? Delivered in 48 hours.",
                 feats: [
-                  "Delivered within 48 hours",
                   "Completely custom design",
                   "Any features you need — booking, payments, catalogues",
                   "Multi-page & multi-language sites",
