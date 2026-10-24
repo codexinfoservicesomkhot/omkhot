@@ -671,7 +671,7 @@ export default function Home() {
         <div className="border-t border-white/10">
           <div className="mx-auto flex max-w-7xl items-center px-5 py-6 text-[12px] text-white/40 sm:px-8">
             <span className="inline-flex items-center gap-2">
-              <Layers size={13} /> © {new Date().getFullYear()} Cresite. All rights reserved.
+              <Layers size={13} /> © {new Date().getFullYear()} Cresite. All rights reserved. Developed By Om Khot
             </span>
           </div>
         </div>
